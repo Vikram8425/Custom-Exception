@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"entity","l":"Employee"},{"p":"Client","l":"EmployeeApp"},{"p":"service","l":"EmployeeImpl"},{"p":"Exception","l":"InvalidAgeException"}];updateSearchResults();
